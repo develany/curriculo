@@ -11,7 +11,7 @@
 
 Meu primeiro projeto usando a ferramenta React. Essa aplicação foi realizada durante o curso de  **Full Stack JS**, projeto do professor [Ronier Lima](https://github.com/ronierlima).
 
-Para acessar o meu curriculo acesse [https://curriculo-develany.vercel.app/](curriculo-develany.vercel.app/).
+Para acessar o meu curriculo acesse [https://curriculo-develany.vercel.app/](https://curriculo-develany.vercel.app/).
 ## :hammer: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
